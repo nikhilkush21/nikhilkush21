@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nikhilkush21" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilkush21?logo=twitter&style=for-the-badge" alt="nikhilkush21" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA (DSA)**
+- 🌱 I’m currently learning **JAVA (DSA) , WEB DEV.**
 
 - 📫 How to reach me **kushwahanikhil2006@gmail.com**
 
