@@ -6,8 +6,6 @@
 ### 👨‍💻 About Me
 - 🎓 BCA Student passionate about **Software Development**
 - 🌱 Currently learning **Java (DSA), Web Development (React, Node.js, MongoDB)**
-- 💡 Interested in **Full Stack Development & Problem Solving**
-- 🎯 Goal: To become a **skilled Software Engineer**
 - 📫 Reach me at: **kushwahanikhil2006@gmail.com**
 
 ---
